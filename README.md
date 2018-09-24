@@ -1,1 +1,2 @@
-#This program helps you to know a year is a leap year or not
+# leap-year-calculator
+ Using this application to check if a year is leap year
